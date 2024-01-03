@@ -6,7 +6,7 @@
   <link href="http://blog.yzxll.top/atom.xml" rel="self"/>
   
   <link href="http://blog.yzxll.top/"/>
-  <updated>2023-12-31T08:56:12.169Z</updated>
+  <updated>2024-01-03T14:35:06.489Z</updated>
   <id>http://blog.yzxll.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20240103随笔</title>
+    <link href="http://blog.yzxll.top/2024/01/03/20240103%E9%9A%8F%E7%AC%94/"/>
+    <id>http://blog.yzxll.top/2024/01/03/20240103%E9%9A%8F%E7%AC%94/</id>
+    <published>2024-01-03T14:33:52.000Z</published>
+    <updated>2024-01-03T14:35:06.489Z</updated>
+    
+    <content type="html"><![CDATA[        <h1 id="2024第一篇随笔诶"   >          <a href="#2024第一篇随笔诶" class="heading-link"><i class="fas fa-link"></i></a><a href="#2024第一篇随笔诶" class="headerlink" title="2024第一篇随笔诶"></a>2024第一篇随笔诶</h1>      <p><img src="/1704278583907.jpg" alt="1704278583907.jpg"></p><p><img src="/1704301825334.jpg" alt="1704301825334.jpg"></p><p>不要在意一大袋子的零食（</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+        &lt;h1 id=&quot;2024第一篇随笔诶&quot;   &gt;
+          &lt;a href=&quot;#2024第一篇随笔诶&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#2024第一篇随笔诶&quot; c</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>20231231随笔</title>
@@ -450,27 +472,6 @@
     
     
     <category term="hrt" scheme="http://blog.yzxll.top/tags/hrt/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20230610随笔</title>
-    <link href="http://blog.yzxll.top/2023/06/10/20230610%E9%9A%8F%E7%AC%94/"/>
-    <id>http://blog.yzxll.top/2023/06/10/20230610%E9%9A%8F%E7%AC%94/</id>
-    <published>2023-06-10T13:12:12.000Z</published>
-    <updated>2023-06-11T05:19:36.937Z</updated>
-    
-    <content type="html"><![CDATA[<p>安装</p><p>···<br>$ npm install hexo-renderer-sass –save<br>$ npm install hexo-generator-json-content –save<br>$ npm install hexo-generator-feed –save<br>···</p><p>hexo-renderer-sass，主题使用的是SCSS，之后再预览就能加载css文件了；<br>hexo-generator-json-content，主题使用了本地搜索功能，这个插件会生成一个JSON格式的所有文章数据；<br>hexo-generator-feed，用于生成RSS订阅，经过配置，根目录会生成一个XML文件。</p><p>233…..</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;安装&lt;/p&gt;
-&lt;p&gt;···&lt;br&gt;$ npm install hexo-renderer-sass –save&lt;br&gt;$ npm install hexo-generator-json-content –save&lt;br&gt;$ npm install hexo-generato</summary>
-      
-    
-    
-    
     
   </entry>
   
